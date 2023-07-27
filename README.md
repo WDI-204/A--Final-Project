@@ -37,6 +37,8 @@ The Final Project will be graded as follows. Implementation of the core requirem
 ### E-Commerce Store Server
 
 - [Core]
+	- RESTful API.
+ 	- Must have full CRUD functionalities. 	
 	- The server should have a route that serves a list of products.
 		- _Recommendation_: Get a list of products from the fakestore api and use those as the product list for this application. https://fakestoreapi.com/docs
 	- The server should have a route that recieves a cart checkout request from the client. This route should create a new order document in the database. The order document should have its own ID, the ID of the user that checked out as well as the checked out cart items stored on it.
