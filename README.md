@@ -12,6 +12,7 @@ The Final Project will be graded as follows. Implementation of the core requirem
 - [Required] React - Client Framework
 - [Required] Express - Server Framework
 - [Required] MongoDB - Database
+- [Required] Mongoose - Library for MongoDB
 - [Required] Git - Code Versioning
 - [Required] Github - Code Storage and Collaboration
 - [Required] CORS - Express CORS Library
