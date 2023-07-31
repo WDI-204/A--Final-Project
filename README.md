@@ -21,7 +21,7 @@ The Final Project will be graded as follows. Implementation of the core requirem
 - [Suggested] Bootstrap - CSS Framework
 - [Suggested] Nodemon - Server Hot Reloading
 - [Suggested] React-Router - Client Side Routing
-- [Suggested] uuidv4 - Unique ID Generator
+- [Suggested] uuid v4 - Unique ID Generator
 
 ## Requirements
 
